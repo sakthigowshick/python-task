@@ -24,16 +24,16 @@ It uses **Python** with **Pandas**, **Matplotlib**, and **Seaborn** to perform d
 Below are some output images generated from the analysis:
 
 ### 🎬 Count of movies vs TV shows on Netflix
-![Release Year Distribution](C:\task02\output2.png)
+![Release Year Distribution](output2.png)
 
 ### 🌍 Number of titles released per year
-![Title released per year](C:\task02\output1.png)
+![Title released per year](output1.png)
 
 ### 🎬 Distribution of TV shows duration
-![TV shows Duration](C:\task02\output3.png)
+![TV shows Duration](output3.png)
 
 ### 🌍 Number of titles added per year
-![Title added per year](C:\task02\output4.png)
+![Title added per year](output4.png)
 
 ---
 
