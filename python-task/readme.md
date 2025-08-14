@@ -23,11 +23,17 @@ It uses **Python** with **Pandas**, **Matplotlib**, and **Seaborn** to perform d
 ## 📊 Results
 Below are some output images generated from the analysis:
 
-### 🎬 Content Distribution by Release Year
-![Release Year Distribution](release_year_distribution.png)
+### 🎬 Count of movies vs TV shows on Netflix
+![Release Year Distribution](C:\task02\output2.png)
 
-### 🌍 Top Countries Producing Content
-![Top Countries](top_countries.png)
+### 🌍 Number of titles released per year
+![Title released per year](C:\task02\output1.png)
+
+### 🎬 Distribution of TV shows duration
+![TV shows Duration](C:\task02\output3.png)
+
+### 🌍 Number of titles added per year
+![Title added per year](C:\task02\output4.png)
 
 ---
 
